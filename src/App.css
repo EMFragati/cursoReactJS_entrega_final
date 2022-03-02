@@ -1,0 +1,11 @@
+/*Propiedades para mi proyecto*/
+  .itemCover{
+    width: 10rem;
+    height: 15rem;
+    transition: 0.5s;
+    opacity: 1;
+  }
+
+  .itemContainer:hover .itemCover {
+    opacity: 0.3;  
+  }
